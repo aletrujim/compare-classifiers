@@ -64,7 +64,7 @@ Para correr una copia local de este proyecto siga estos sencillos pasos.
 <!-- RESULTS -->
 ## Results
 
-![results](https://github.com/aletrujim/SatRed/blob/main/compare-classifiers/images/fig3.jpg)
+![results](https://github.com/aletrujim/compare-classifiers/blob/main/images/fig3.png)
 
 <!-- CITATION -->
 ## Citation
